@@ -1,0 +1,11 @@
+.tableChart {
+    border: 1px solid #877f72;
+    height: 100px;
+    width: 450px;
+    margin: 5px;
+}
+
+.input {
+    margin: 0;
+    height: 20px;
+}
