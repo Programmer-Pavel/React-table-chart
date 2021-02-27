@@ -8,7 +8,7 @@ const App = () => {
     const [data, setData] = useState([]);
 
     const api = axios.create({
-        baseURL: `http://localhost:3000`
+        baseURL: `https://e8e2abb1-64d4-4f86-9d95-7368dac584e6.mock.pstmn.io`
     })
 
     useEffect(() => {

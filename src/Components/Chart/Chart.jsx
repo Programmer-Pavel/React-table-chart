@@ -57,7 +57,6 @@ const Chart = ({data}) => {
                 type: 'time',
                 time: {
                     unit: 'day',
-
                 }
             }
             ]
